@@ -9,6 +9,8 @@
   - Design patterns of Angular and NodeJS
   - GraphQL
 
+[![Jifri's GitHub stats](https://github-readme-stats.vercel.app/api?username=jifrivly)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://stackoverflow.com/users/7939765/jifri-valanchery"><img src="https://stackoverflow.com/users/flair/7939765.png?theme=clean" width="208" height="58" alt="profile for Jifri Valanchery at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Jifri Valanchery at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/JifriSmh.svg?style=social&label=Follow%20JifriSmh)](https://twitter.com/JifriSmh)
