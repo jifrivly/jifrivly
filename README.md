@@ -13,8 +13,12 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@JifriSmh-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JifriSmh)](https://twitter.com/JifriSmh) [![Linkedin Badge](https://img.shields.io/badge/-smhjifri-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smhjifri-vly/) [![Mail Badge](https://img.shields.io/badge/-jifrivly-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jifrivly@gmail.com) [![Telegram Badge](https://img.shields.io/badge/-jifrivly-30A8E9?style=flat&labelColor=30A8E9&logo=telegram&logoColor=white)](https://t.me/jifrivly) [![Mail Badge](https://img.shields.io/badge/-@smh_jifri-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/smh_jifri) [![Facebbok Badge](https://img.shields.io/badge/-hassanjifri-385898?style=flat&labelColor=385898&logo=facebook&logoColor=white)](https://www.facebook.com/HASSANJIFRIEDAYUR) [![WhatsApp Badge](https://img.shields.io/badge/-hassanjifri-5BC1A6?style=flat&labelColor=5BC1A6&logo=whatsapp&logoColor=white)](https://wa.me/919744344978)
 
-<h3 align="left">Languages and Tools:</h3>
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![React Badge](https://img.shields.io/badge/-Angular-C5382F?style=for-the-badge&labelColor=black&logo=angular&logoColor=DF4036)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](#)
+### Languages and Tools
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
+[![React Badge](https://img.shields.io/badge/-Angular-C5382F?style=for-the-badge&labelColor=black&logo=angular&logoColor=DF4036)](#)
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+[![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](#)
 
  
 <p align="left">
