@@ -1,5 +1,4 @@
-### Hi 👋
-### I am Hasan Jifri
+## Hi I'm Sayyid Muhammed _**Hasan Jifri**_ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25px" alt="hi">
 
 - 🔭 I’m currently working 
   - as a software engineer in [Vuelogix](https://www.vuelogix.com/) an IOT company
@@ -9,6 +8,10 @@
   - Design patterns of Angular and NodeJS
   - GraphQL
   - DevOps Tools
+
+:mailbox: Reach me out!
+
+[![Twitter Badge](https://img.shields.io/badge/-@JifriSmh-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JifriSmh)](https://twitter.com/JifriSmh) [![Linkedin Badge](https://img.shields.io/badge/-smhjifri-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smhjifri-vly/) [![Mail Badge](https://img.shields.io/badge/-jifrivly-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jifrivly@gmail.com) [![Telegram Badge](https://img.shields.io/badge/-jifrivly-30A8E9?style=flat&labelColor=30A8E9&logo=telegram&logoColor=white)](https://t.me/jifrivly) [![Mail Badge](https://img.shields.io/badge/-@smh_jifri-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/smh_jifri) [![Facebbok Badge](https://img.shields.io/badge/-hassanjifri-385898?style=flat&labelColor=385898&logo=facebook&logoColor=white)](https://www.facebook.com/HASSANJIFRIEDAYUR) [![WhatsApp Badge](https://img.shields.io/badge/-hassanjifri-5BC1A6?style=flat&labelColor=5BC1A6&logo=whatsapp&logoColor=white)](https://wa.me/919744344978)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -52,8 +55,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
 </p>
-  
-  
+
+
 <p align="left">  
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
@@ -86,8 +89,6 @@
 
 
 <a href="https://stackoverflow.com/users/7939765/jifri-valanchery"><img src="https://stackoverflow.com/users/flair/7939765.png?theme=clean" width="208" height="58" alt="profile for Jifri Valanchery at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Jifri Valanchery at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/JifriSmh.svg?style=social&label=Follow%20JifriSmh)](https://twitter.com/JifriSmh)
 
 
 <!--
