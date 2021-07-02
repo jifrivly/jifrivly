@@ -86,8 +86,10 @@
 
 [![Jifri's GitHub stats](https://github-readme-stats.vercel.app/api?username=jifrivly&count_private=true&show_icons=true&theme=dark)](https://github.com/jifrivly)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jifrivly&hide=php&langs_count=8&layout=compact&theme=dark)](#)
+#### Profile Visits
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jifrivly.jifrivly)
 
-
+#### Stackoverflow Account
 <a href="https://stackoverflow.com/users/7939765/jifri-valanchery">
   <img src="https://stackoverflow.com/users/flair/7939765.png?theme=dark" width="208" height="58" alt="stackoverflow profile for Jifri Valanchery">
 </a>
