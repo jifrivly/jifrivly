@@ -88,7 +88,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jifrivly&hide=php&langs_count=8&layout=compact&theme=dark)](#)
 
 
-<a href="https://stackoverflow.com/users/7939765/jifri-valanchery"><img src="https://stackoverflow.com/users/flair/7939765.png?theme=clean" width="208" height="58" alt="profile for Jifri Valanchery at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Jifri Valanchery at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/7939765/jifri-valanchery">
+  <img src="https://stackoverflow.com/users/flair/7939765.png?theme=dark" width="208" height="58" alt="stackoverflow profile for Jifri Valanchery">
+</a>
 
 
 <!--
