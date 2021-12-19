@@ -41,6 +41,7 @@ I'm Sayyid Muhammed Hasan Jifri a Full Stack Web Developer.
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-327496?style=for-the-badge&labelColor=black&logo=mysql)](#)
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-478E4F?style=for-the-badge&labelColor=black&logo=mongodb)](#)
 [![ClickHouse Badge](https://img.shields.io/badge/-ClickHouse-F7C73D?style=for-the-badge&labelColor=black&logo=clickhouse)](#)
+[![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336690?style=for-the-badge&labelColor=black&logo=postgresql)](#)
 
 [![VSCode Badge](https://img.shields.io/badge/-VSCODE-3382B5?style=for-the-badge&labelColor=black&logo=visualstudiocode&logoColor=3382B5)](#)
 [![Linux Badge](https://img.shields.io/badge/-Linux-FFFFFF?style=for-the-badge&labelColor=black&logo=linux&logoColor=FFFFFF)](#)
