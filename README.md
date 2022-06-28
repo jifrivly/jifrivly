@@ -24,14 +24,15 @@ I'm Sayyid Muhammed Hasan Jifri a Full Stack Web Developer.
 ### Languages and Tools
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
-[![Angular Badge](https://img.shields.io/badge/-Angular-C5382F?style=for-the-badge&labelColor=black&logo=angular&logoColor=DF4036)](#)
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-[![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](#)
 
-[![Express.JS Badge](https://img.shields.io/badge/-Express_JS-E4E4E4?style=for-the-badge&labelColor=black&logo=express&logoColor=E4E4E4)](#)
-[![Ionic Badge](https://img.shields.io/badge/-Ionic_Angular-377FFA?style=for-the-badge&labelColor=black&logo=ionic&logoColor=377FFA)](#)
+[![Angular Badge](https://img.shields.io/badge/-Angular-C5382F?style=for-the-badge&labelColor=black&logo=angular&logoColor=DF4036)](#)
 [![Jasmin Badge](https://img.shields.io/badge/-Jasmin-863F7E?style=for-the-badge&labelColor=black&logo=jasmine&logoColor=863F7E)](#)
 [![Karma Badge](https://img.shields.io/badge/-Karma-55B9AA?style=for-the-badge&labelColor=black&logo=karma&logoColor=55B9AA)](#)
+[![RxJS Badge](https://img.shields.io/badge/-RxJS-D41188?style=for-the-badge&labelColor=black&logo=rxjs&logoColor=D41188)](#)
+
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+[![Express.JS Badge](https://img.shields.io/badge/-Express_JS-E4E4E4?style=for-the-badge&labelColor=black&logo=express&logoColor=E4E4E4)](#)
+[![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](#)
 
 [![Docker Badge](https://img.shields.io/badge/-Docker-2D89B2?style=for-the-badge&labelColor=black&logo=docker&logoColor=2D89B2)](#)
 [![Firebase Badge](https://img.shields.io/badge/-Firebase-F7C53C?style=for-the-badge&labelColor=black&logo=firebase)](#)
@@ -42,6 +43,7 @@ I'm Sayyid Muhammed Hasan Jifri a Full Stack Web Developer.
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-478E4F?style=for-the-badge&labelColor=black&logo=mongodb)](#)
 [![ClickHouse Badge](https://img.shields.io/badge/-ClickHouse-F7C73D?style=for-the-badge&labelColor=black&logo=clickhouse)](#)
 [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336690?style=for-the-badge&labelColor=black&logo=postgresql)](#)
+[![ElasticSearch Badge](https://img.shields.io/badge/-ElasticSearch-18354A?style=for-the-badge&labelColor=yellow&logo=elasticsearch)](#)
 
 [![VSCode Badge](https://img.shields.io/badge/-VSCODE-3382B5?style=for-the-badge&labelColor=black&logo=visualstudiocode&logoColor=3382B5)](#)
 [![Linux Badge](https://img.shields.io/badge/-Linux-FFFFFF?style=for-the-badge&labelColor=black&logo=linux&logoColor=FFFFFF)](#)
