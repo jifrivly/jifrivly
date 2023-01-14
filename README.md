@@ -3,13 +3,15 @@
 I'm Sayyid Muhammed Hasan Jifri a Full Stack Web Developer.
 
 - 🔭 I’m currently working 
-  - as a :computer: Software Engineer at [Vuelogix](https://www.vuelogix.com/) an IOT company
-  - freelancer
+  - as a :computer: Software Engineer at [Factweavers](https://factweavers.com/) a Leading Big Data Solutions Company
 - 🌱 I’m currently learning 
   - Deep diving into NodeJS
   - Design patterns of Angular and NodeJS
   - GraphQL
   - DevOps Tools
+- ☑️ Previously worked
+  - as a :computer: Software Engineer at [Vuelogix](https://www.vuelogix.com/) an IOT company
+  - as a freelancer
 
 :mailbox: Reach me out!
 
