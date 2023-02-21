@@ -1,10 +1,10 @@
 ## Hi I'm **Jifri** <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="80px" height="80px" alt="hi">
 
-### My name is Sayyid Muhammed Hasan Jifri, I am a Full Stack Web Developer living in Kerala, IN.
+### My name is Sayyid Muhammed Hasan Jifri, I'm a Full Stack Web Developer living in Kerala, IN.
 
-- 🔭 I’m currently working 
+- 🔭 I’m currently working
   - as a :computer: Software Engineer at [Factweavers](https://factweavers.com/) a Leading Big Data Solutions Company
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning
   - Deep diving into NodeJS
   - Design patterns of Angular and NodeJS
   - GraphQL
@@ -32,6 +32,11 @@
 [![Karma Badge](https://img.shields.io/badge/-Karma-55B9AA?style=for-the-badge&labelColor=black&logo=karma&logoColor=55B9AA)](#)
 [![RxJS Badge](https://img.shields.io/badge/-RxJS-D41188?style=for-the-badge&labelColor=black&logo=rxjs&logoColor=D41188)](#)
 
+[![React Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)](#)
+[![Redux Badge](https://img.shields.io/badge/-Redux-764abc?style=for-the-badge&labelColor=white&logo=redux&logoColor=764abc)](#)
+[![Axios Badge](https://img.shields.io/badge/-Axios-5A29E4?style=for-the-badge&labelColor=white&logo=axios&logoColor=5A29E4)](#)
+[![React Testing Library Badge](https://img.shields.io/badge/-React_Testing_Library-FA4343?style=for-the-badge&labelColor=black&logo=react-testing-library&logoColor=D41188)](#)
+
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 [![Express.JS Badge](https://img.shields.io/badge/-Express_JS-E4E4E4?style=for-the-badge&labelColor=black&logo=express&logoColor=E4E4E4)](#)
 [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](#)
@@ -40,6 +45,8 @@
 [![Firebase Badge](https://img.shields.io/badge/-Firebase-F7C53C?style=for-the-badge&labelColor=black&logo=firebase)](#)
 [![Git Badge](https://img.shields.io/badge/-Git-E94F39?style=for-the-badge&labelColor=black&logo=git)](#)
 [![Postman Badge](https://img.shields.io/badge/-Postman-EF683A?style=for-the-badge&labelColor=black&logo=postman)](#)
+[![Jenkins Badge](https://img.shields.io/badge/-Jenkins-314C5B?style=for-the-badge&labelColor=white&logo=jenkins)](#)
+[![AWS Badge](https://img.shields.io/badge/-AWS-white?style=for-the-badge&labelColor=black&logo=amazon)](#)
 
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-327496?style=for-the-badge&labelColor=black&logo=mysql)](#)
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-478E4F?style=for-the-badge&labelColor=black&logo=mongodb)](#)
