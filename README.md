@@ -1,6 +1,6 @@
 ## Hi I'm **Jifri** <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="80px" height="80px" alt="hi">
 
-I'm Sayyid Muhammed Hasan Jifri a Full Stack Web Developer.
+### My name is Sayyid Muhammed Hasan Jifri, I am a Full Stack Web Developer living in Kerala, IN.
 
 - 🔭 I’m currently working 
   - as a :computer: Software Engineer at [Factweavers](https://factweavers.com/) a Leading Big Data Solutions Company
