@@ -3,7 +3,7 @@
 ### My name is Sayyid Muhammed Hasan Jifri, I'm a Full Stack Web Developer living in Kerala, IN.
 
 - 🔭 I’m currently working
-  - as a :computer: Software Engineer at [Factweavers](https://factweavers.com/) a Leading Big Data Solutions Company
+  - as a :computer: Software Engineer at [Factweavers](https://factweavers.com/) - [DBiz](https://www.dbizsolution.com/) a Leading Big Data Solutions Company
 - 🌱 I’m currently learning
   - Deep diving into NodeJS
   - Design patterns of Angular and NodeJS
