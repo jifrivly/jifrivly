@@ -33,8 +33,8 @@
 <!-- [![Karma Badge](https://img.shields.io/badge/-Karma-55B9AA?style=for-the-badge&labelColor=black&logo=karma&logoColor=55B9AA)](#) -->
 
 [![React Badge](https://img.shields.io/badge/-React-E4E4E4?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)](#)
-[![Redux Badge](https://img.shields.io/badge/-Redux-E4E4E4?style=for-the-badge&labelColor=white&logo=redux&logoColor=764abc)](#)
-[![Axios Badge](https://img.shields.io/badge/-Axios-E4E4E4?style=for-the-badge&labelColor=white&logo=axios&logoColor=5A29E4)](#)
+[![Redux Badge](https://img.shields.io/badge/-Redux-E4E4E4?style=for-the-badge&labelColor=black&logo=redux&logoColor=764abc)](#)
+[![Axios Badge](https://img.shields.io/badge/-Axios-E4E4E4?style=for-the-badge&labelColor=black&logo=axios&logoColor=5A29E4)](#)
 [![React Testing Library Badge](https://img.shields.io/badge/-React_Testing_Library-E4E4E4?style=for-the-badge&labelColor=black&logo=react-testing-library&logoColor=D41188)](#)
 
 [![VueJS Badge](https://img.shields.io/badge/-vuejs-E4E4E4?style=for-the-badge&labelColor=black&logo=vuedotjs&logoColor=4FC08D)](#)
@@ -53,7 +53,7 @@
 [![Git Badge](https://img.shields.io/badge/-Git-E4E4E4?style=for-the-badge&labelColor=black&logo=git)](#)
 [![Docker Badge](https://img.shields.io/badge/-Docker-E4E4E4?style=for-the-badge&labelColor=black&logo=docker&logoColor=2D89B2)](#)
 [![Postman Badge](https://img.shields.io/badge/-Postman-E4E4E4?style=for-the-badge&labelColor=black&logo=postman)](#)
-[![Jenkins Badge](https://img.shields.io/badge/-Jenkins-E4E4E4?style=for-the-badge&labelColor=white&logo=jenkins&ogoColor=D24939)](#)
+[![Jenkins Badge](https://img.shields.io/badge/-Jenkins-E4E4E4?style=for-the-badge&labelColor=black&logo=jenkins&ogoColor=D24939)](#)
 [![Bamboo Badge](https://img.shields.io/badge/-Bamboo-E4E4E4?style=for-the-badge&labelColor=black&logo=bamboo&logoColor=0052CC)](#)
 [![PCF Badge](https://img.shields.io/badge/-PCF-E4E4E4?style=for-the-badge&labelColor=black&logo=cloudfoundry&logoColor=0C9ED5)](#)
 [![AWS Badge](https://img.shields.io/badge/-AWS-E4E4E4?style=for-the-badge&labelColor=black&logo=amazon)](#)
@@ -73,11 +73,8 @@
 
 [![Jifri's GitHub stats](https://github-readme-stats.vercel.app/api?username=jifrivly&count_private=true&show_icons=true&theme=dark)](#)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jifrivly&hide=php&langs_count=8&layout=compact&theme=dark)](#)
-
-<!--
 #### Profile Visits
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jifrivly.jifrivly)
--->
 
 #### Stackoverflow Account
 <a href="https://stackoverflow.com/users/7939765/jifri-valanchery">
