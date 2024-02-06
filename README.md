@@ -1,16 +1,17 @@
-## Hi I'm **Jifri** <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="80px" height="80px" alt="hi">
+# Hi<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="50px" height="50px" alt="hi">, I'm **Jifri** <span style="font-size:16px">(`Sayyid Muhammed Hasan Jifri`)</span>
 
-### My name is Sayyid Muhammed Hasan Jifri, I'm a Full Stack Web Developer living in Kerala, IN.
+### A passionate, self driven and Strong full-stack expertise specializing in Node.js and modern frontend frameworks (Angular, React, Vue), fueled by a passion for technology and its potential to make a difference.
 
+- 🌏 I’m from Kerala 🌳 🇮🇳
 - 🔭 I’m currently working
-  - as a :computer: Software Engineer at [Factweavers](https://factweavers.com/) - [DBiz](https://www.dbizsolution.com/) a Leading Big Data Solutions Company
+  - as a 💻 Software Engineer at [Factweavers](https://factweavers.com/) - [DBiz](https://www.dbizsolution.com/) a Leading Big Data Solutions Company
 - 🌱 I’m currently learning
   - Deep diving into NodeJS
   - Design patterns of Angular and NodeJS
   - GraphQL
   - DevOps Tools
 - ☑️ Previously worked
-  - as a :computer: Software Engineer at [Vuelogix](https://www.vuelogix.com/) an IOT company
+  - as a 💻 Software Engineer at [Vuelogix](https://www.vuelogix.com/) an IOT company
   - as a freelancer
 
 :mailbox: Reach me out!
