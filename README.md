@@ -1,4 +1,4 @@
-# Hi<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="50px" height="50px" alt="hi">, I'm **Jifri** <span style="font-size:16px">(`Sayyid Muhammed Hasan Jifri`)</span>
+# Hi<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="50px" height="50px" alt="hi">, I'm **Jifri** <sub>(`Sayyid Muhammed Hasan Jifri`)</sub>
 
 ### A passionate, self driven and Strong full-stack expertise specializing in Node.js and modern frontend frameworks (Angular, React, Vue), fueled by a passion for technology and its potential to make a difference.
 
